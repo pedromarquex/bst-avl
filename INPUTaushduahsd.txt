@@ -1,0 +1,1 @@
+Dict_AVL = {'MA':['SÃO_LUÍS'], 'CE': ['FORTALEZA'], 'AM': ['MANAUS']}

@@ -1,0 +1,1 @@
+Dict_AVL = {'PI':['Piaui'], 'MA': ['Maranhao'], 'CE': ['Ceará'], 'PE': ['Pernambuco'], 'RN': ['Rio','Grande','do','Norte'],'AL':['Alagoas'],'SE':['Sergipe'],'BA':['Bahia'],'PB':['Paraíba']}
